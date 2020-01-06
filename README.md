@@ -15,6 +15,7 @@ Python OOP 5 - Special (Magic/Dunder) Methods - https://youtu.be/3ohzBxoFHAY
 Python OOP 6 - Property Decorators - https://youtu.be/jCzT9XFZ5bw
 
 6 vídeos
+
 Python Object-Oriented Tutorials. In this series, we will be learning how to create classes in Python, and also the best practices for working with these classes. We will go over class/instance variables, inheritance, getters/setters, and much more.
 
 more coming...
