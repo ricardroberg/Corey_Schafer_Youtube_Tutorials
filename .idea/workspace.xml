@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1b4432b-afac-4cde-993d-d06db930b1ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python_OOP_tutorial/5_special_magic_dunder_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_tutorial/6_property_decorators_getters_setters_deleters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,28 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
-  <component name="RunManager" selected="Python.5_special_magic_dunder_methods">
-    <configuration name="1_classes_and_instances" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Corey_Schafer_Youtube_Tutorials" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_tutorial" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_tutorial/1_classes_and_instances.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.6_property_decorators_getters_setters_deleters">
     <configuration name="2_class_variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Corey_Schafer_Youtube_Tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,13 +116,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="6_property_decorators_getters_setters_deleters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Corey_Schafer_Youtube_Tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_tutorial" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_tutorial/6_property_decorators_getters_setters_deleters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6_property_decorators_getters_setters_deleters" />
         <item itemvalue="Python.5_special_magic_dunder_methods" />
         <item itemvalue="Python.4_inheritance_creating_subclasses" />
         <item itemvalue="Python.3_classmethods_staticmethods" />
         <item itemvalue="Python.2_class_variables" />
-        <item itemvalue="Python.1_classes_and_instances" />
       </list>
     </recent_temporary>
   </component>
@@ -174,29 +174,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1379" height="198" key="GridCell.Tab.0.bottom" timestamp="1578336539862">
+    <state width="1379" height="198" key="GridCell.Tab.0.bottom" timestamp="1578343627521">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state width="1379" height="198" key="GridCell.Tab.0.bottom/0.23.1440.817@0.23.1440.817" timestamp="1578334926691" />
-    <state width="1379" height="198" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1578336539862" />
+    <state width="1379" height="198" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1578343627521" />
     <state width="1379" height="198" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1578335920083" />
-    <state width="1379" height="198" key="GridCell.Tab.0.center" timestamp="1578336539859">
+    <state width="1379" height="198" key="GridCell.Tab.0.center" timestamp="1578343627520">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state width="1379" height="198" key="GridCell.Tab.0.center/0.23.1440.817@0.23.1440.817" timestamp="1578334926690" />
-    <state width="1379" height="198" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1578336539859" />
+    <state width="1379" height="198" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1578343627520" />
     <state width="1379" height="198" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1578335920080" />
-    <state width="1379" height="198" key="GridCell.Tab.0.left" timestamp="1578336539858">
+    <state width="1379" height="198" key="GridCell.Tab.0.left" timestamp="1578343627520">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state width="1379" height="198" key="GridCell.Tab.0.left/0.23.1440.817@0.23.1440.817" timestamp="1578334926689" />
-    <state width="1379" height="198" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1578336539858" />
+    <state width="1379" height="198" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1578343627520" />
     <state width="1379" height="198" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1578335920079" />
-    <state width="1379" height="198" key="GridCell.Tab.0.right" timestamp="1578336539861">
+    <state width="1379" height="198" key="GridCell.Tab.0.right" timestamp="1578343627521">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state width="1379" height="198" key="GridCell.Tab.0.right/0.23.1440.817@0.23.1440.817" timestamp="1578334926691" />
-    <state width="1379" height="198" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1578336539861" />
+    <state width="1379" height="198" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1578343627521" />
     <state width="1379" height="198" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1578335920082" />
     <state x="178" y="44" key="SettingsEditor" timestamp="1578332370391">
       <screen x="0" y="23" width="1440" height="817" />
