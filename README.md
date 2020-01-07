@@ -23,4 +23,10 @@ Python Object-Oriented Tutorials. In this series, we will be learning how to cre
 https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p  
 
 
+Full-Featured Web App Part 1 - Getting Started  
+https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p  
+
+Full-Featured Web App Part 2 - Applications and Routes  
+https://www.youtube.com/watch?v=a48xeeo5Vnk&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&index=2  
+
 more coming...  
