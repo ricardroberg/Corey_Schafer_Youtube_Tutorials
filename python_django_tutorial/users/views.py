@@ -19,7 +19,7 @@ def register(request):
     return render(request, 'users/register.html', {'form': form})
 
 
-@login_requiredq
+@login_required
 def profile(request):
     if request.method == 'POST':
         u_form = UserUpdateForm(request.POST, instance=request.user)
