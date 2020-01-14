@@ -36,6 +36,7 @@
                     <a class="nav-item nav-link" href="{% url 'profile' %}">Profile</a>
                     <a class="nav-item nav-link" href="{% url 'logout' %}">Logout</a>
                 {% else %}
+                <img class="rounded-circle z-depth-0" alt="avatar image" height="35" src="media/notlogged.png" >
                   <a class="nav-item nav-link" href="{% url 'login' %}">Login</a>
                   <a class="nav-item nav-link" href="{% url 'register' %}">Register</a>
                 {% endif %}
