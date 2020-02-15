@@ -2,7 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1b4432b-afac-4cde-993d-d06db930b1ff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/.idea/python_django_tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/.idea/python_django_tutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/blog/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/blog/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/blog/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/blog/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/blog/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/blog/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/blog/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/blog/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/blog/static/blog/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/blog/static/blog/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/blog/templates/blog/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/blog/templates/blog/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/blog/templates/blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/blog/templates/blog/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/blog/templates/blog/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/blog/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/blog/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/django_project/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/django_project/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/django_project/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/django_project/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/django_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/django_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/django_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/django_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/django_project/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/django_project/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/media/default.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/media/default.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/media/profile_pics/EVE_X1A21OV.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/media/profile_pics/EVE_X1A21OV.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/media/profile_pics/PANDA_DOIDO.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/media/profile_pics/PANDA_DOIDO.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/media/profile_pics/_downloadfiles_wallpapers_1920_1200_blown_dandelion_17114.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/media/profile_pics/_downloadfiles_wallpapers_1920_1200_blown_dandelion_17114.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/users/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/users/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/users/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/users/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/users/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/users/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/users/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/users/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/users/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/users/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/users/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/users/signals.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/users/signals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/users/templates/users/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/users/templates/users/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/users/templates/users/logout.html" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/users/templates/users/logout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/users/templates/users/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/users/templates/users/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/users/templates/users/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/users/templates/users/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/users/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/users/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/users/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +75,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
@@ -201,9 +250,10 @@
       <screen x="0" y="23" width="1440" height="817" />
     </state>
     <state x="178" y="44" key="SettingsEditor/0.23.1440.817@0.23.1440.817" timestamp="1578332370391" />
-    <state x="399" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1578322416809">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="399" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1581802065473">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="399" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1578322416809" />
+    <state x="399" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1578927000993" />
+    <state x="399" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1581802065473" />
   </component>
 </project>
