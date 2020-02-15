@@ -30,3 +30,10 @@ Full-Featured Web App Part 2 - Applications and Routes
 https://www.youtube.com/watch?v=a48xeeo5Vnk&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&index=2  
 
 more coming...  
+
+
+## Python Flask Tutorial  
+
+https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH  
+
+1 - Getting Started  
