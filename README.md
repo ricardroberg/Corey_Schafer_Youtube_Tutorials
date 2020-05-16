@@ -33,7 +33,7 @@ Full-Featured Web App Part 8 - User Profile and Picture - https://youtu.be/FdVuK
 Full-Featured Web App Part 9 - Update User Profile - https://youtu.be/CQ90L5jfldw  
 Full-Featured Web App Part 10 - Create, Update, and Delete Posts - https://youtu.be/-s7e_Fy6NRU  
 Full-Featured Web App Part 11 - Pagination - https://youtu.be/acOktTcTVEQ  
-Full-Featured Web App Part 12 - Email and Password Reset - https://youtu.be/-tyBEsHSv7w
+Full-Featured Web App Part 12 - Email and Password Reset - https://youtu.be/-tyBEsHSv7w  
 Full-Featured Web App Part 13 - more coming...  ... now! (since January 16, 2020) 
 Full-Featured Web App Part 14 - more coming...  ... now! (since January 16, 2020) 
 Full-Featured Web App Part 15 - more coming...  ... now! (since January 16, 2020) 
