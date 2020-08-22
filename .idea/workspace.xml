@@ -1,12 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:python_django_tutorial" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c1b4432b-afac-4cde-993d-d06db930b1ff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/python_django_tutorial/old_requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Corey_Schafer_Youtube_Tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Corey_Schafer_Youtube_Tutorials.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/ricardroberg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/ricardroberg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_tutorial/1_classes_and_instances.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_tutorial/1_classes_and_instances.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_tutorial/2_class_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_tutorial/2_class_variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_tutorial/3_classmethods_staticmethods.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_tutorial/3_classmethods_staticmethods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_tutorial/4_inheritance_creating_subclasses.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_tutorial/4_inheritance_creating_subclasses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_tutorial/5_special_magic_dunder_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_tutorial/5_special_magic_dunder_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_tutorial/6_property_decorators_getters_setters_deleters.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_tutorial/6_property_decorators_getters_setters_deleters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_django_tutorial/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_django_tutorial/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_django_tutorial/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/.idea/misc.xml" afterDir="false" />
@@ -39,6 +89,7 @@
       <change beforePath="$PROJECT_DIR$/python_django_tutorial/django_project/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/django_project/wsgi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_django_tutorial/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/manage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_django_tutorial/media/default.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/media/default.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_tutorial/media/notlogged.png" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/media/notlogged.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_django_tutorial/media/profile_pics/EVE_X1A21OV.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/media/profile_pics/EVE_X1A21OV.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_django_tutorial/media/profile_pics/PANDA_DOIDO.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/media/profile_pics/PANDA_DOIDO.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_django_tutorial/media/profile_pics/_downloadfiles_wallpapers_1920_1200_blown_dandelion_17114.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/media/profile_pics/_downloadfiles_wallpapers_1920_1200_blown_dandelion_17114.jpg" afterDir="false" />
@@ -63,6 +114,11 @@
       <change beforePath="$PROJECT_DIR$/python_django_tutorial/users/templates/users/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/users/templates/users/register.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_django_tutorial/users/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/users/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_django_tutorial/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_tutorial/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_flask_tutorial/flaskblog.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_flask_tutorial/flaskblog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_flask_tutorial/static/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/python_flask_tutorial/static/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_flask_tutorial/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/python_flask_tutorial/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_flask_tutorial/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/python_flask_tutorial/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_flask_tutorial/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/python_flask_tutorial/templates/layout.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,11 +145,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Python_Envs" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.6_property_decorators_getters_setters_deleters">
@@ -212,7 +269,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="4" Folder0="$PROJECT_DIR$/../IntelliJ.Portuguese.Brazil.Dictionary-master" Folder1="$PROJECT_DIR$/../IntelliJ.Portuguese.Brazil.Dictionary-master" Folder2="$PROJECT_DIR$/../IntelliJ.Portuguese.Brazil.Dictionary-master" Folder3="$PROJECT_DIR$/../IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="4" CustomDictionary0="$PROJECT_DIR$/../IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary1="$PROJECT_DIR$/../IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_technical-terms.dic" CustomDictionary2="$PROJECT_DIR$/../IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_without-accents.dic" CustomDictionary3="$PROJECT_DIR$/../IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="4" Folder0="E:\Maztah\ONEDRIVE\PycharmProjects\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder1="E:\Maztah\ONEDRIVE\PycharmProjects\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder2="E:\Maztah\ONEDRIVE\PycharmProjects\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder3="E:\Maztah\ONEDRIVE\PycharmProjects\IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="4" CustomDictionary0="$PROJECT_DIR$/../IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary1="$PROJECT_DIR$/../IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_technical-terms.dic" CustomDictionary2="$PROJECT_DIR$/../IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_without-accents.dic" CustomDictionary3="$PROJECT_DIR$/../IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil.dic" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -226,23 +283,32 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="896" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581802658455">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state x="515" y="137" key="FileChooserDialogImpl" timestamp="1598105775110">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="896" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.823@0.23.1440.823" timestamp="1581802658455" />
-    <state x="237" y="27" key="SettingsEditor" timestamp="1589633734669">
+    <state x="515" y="137" key="FileChooserDialogImpl/0.0.1920.1040/-1440.-98.1440.860@0.0.1920.1040" timestamp="1598105775110" />
+    <state x="237" y="27" key="SettingsEditor" timestamp="1598105944845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="237" y="27" key="SettingsEditor/-1440.0.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1589633734669" />
-    <state x="178" y="44" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1581802627484" />
-    <state x="399" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1581802065473">
-      <screen x="0" y="23" width="1440" height="823" />
-    </state>
-    <state x="399" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1581802065473" />
-    <state x="1035" y="167" key="search.everywhere.popup" timestamp="1581802217508">
-      <screen x="0" y="23" width="1440" height="823" />
-    </state>
-    <state x="1035" y="167" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1581802217508" />
+    <state x="237" y="27" key="SettingsEditor/0.0.1920.1040/-1440.-98.1440.860@0.0.1920.1040" timestamp="1598105944845" />
   </component>
 </project>
