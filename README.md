@@ -50,7 +50,7 @@ https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUx
 
 
 
-###All Rights Reserved
+### All Rights Reserved
 Corey Schafer  
 My website - http://coreyms.com/  
 Facebook - https://www.facebook.com/CoreyMSchafer  
